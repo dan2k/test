@@ -1,3 +1,4 @@
 <?
+echo "<hr>";
 phpinfo();
 ?>
