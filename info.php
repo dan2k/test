@@ -1,5 +1,5 @@
-<?
-echo "<hr>";
+<?php 
+
 phpinfo();
-echo "<hr>";
+
 ?>
